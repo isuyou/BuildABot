@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/CWRU/Spring 2016/EECS 290/Unity Projects/Final Project/Assets/Menu.unity
+  isLoaded: 1
+  isActive: 1
